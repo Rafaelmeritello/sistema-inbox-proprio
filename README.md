@@ -1,2 +1,3 @@
-# conversor-com-login
-Projeto onde cada usuário faz login e escolhe quais moedas quer acompanhar 
+# Sistema mensagens inbox entre usuários, simulador simples de funcionamento de email
+Projeto onde cada usuário faz login e manda uma mensagem para outro, simulando um email
+
