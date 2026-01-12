@@ -13,7 +13,6 @@ export async function get_usuario_por_id(id: number) {
         Nome`
     ).eq('id',id). order('created_at', { ascending: false }).maybeSingle()
 
-    console.log('usuario')
-    console.log(data)
+
     return data as unknown as interface_usuario
 } 

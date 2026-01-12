@@ -15,8 +15,8 @@ export async function buscarmensageminbox() {
     console.error("Erro na busca:", error.message);
     return [];
   }
-console.log('dados aqui')
-console.log(data)
+
+
   return data;
 }
 
